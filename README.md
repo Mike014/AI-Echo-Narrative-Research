@@ -94,6 +94,11 @@ exploring how AI can enrich interactive fiction through:
    * Symbolic and reflective storytelling (*The Dream Within Huang Long Cave, arXiv 2504.04968*).
 
 ---
+## **Index of Research**: 
+1. [Lore of the game Dialoghi con un eco](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/narrative-parallels-bandersnatch-dialoghi.md) _Narrative foundation and parallels with Bandersnatch._
+2. [Entity vs Pax](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/The-Entity-vs-Pax.md) _Comparative study between the Echo Entity and Bandersnatch’s Pax._
+3. [Meta Gaming](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Meta-Gaming.md) _Analysis of meta-narrative and “player awareness” in interactive systems._
+4. [Unity Inference Engine](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Unity-Inference-AI-Engine/Unity-Inference-Engine.ipynb) _Technical exploration of integrating inference engines into Unity._
 
 ## License
 
