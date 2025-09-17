@@ -8,7 +8,7 @@ Michele Grimaldi · 2025
 ## Overview
 
 This repository presents an **independent research project** on AI-driven interactive narratives,  
-developed from the experimental prototype **Dialoghi con un’Eco**.
+developed from the experimental prototype **[Dialoghi con un’Eco](https://github.com/Mike014?tab=repositories)**.
 
 The research explores how **generative AI** and **interactive storytelling** can simulate  
 a *conscious, mysterious digital entity* — a presence that observes, listens,  
