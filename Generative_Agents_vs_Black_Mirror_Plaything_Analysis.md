@@ -25,7 +25,7 @@ The emergence of Large Language Models has reopened fundamental questions about 
 - **Evolution Capability**: 40-year development cycle with hardware upgrades
 - **Neural Integration**: Direct brain-computer interface for bidirectional communication
 
-<img src="assets/img/Plaything_Black_Mirror.jpg" alt="Thronglets" title="Thronglets" width="300">
+<img src="assets/img/Plaything_Black_Mirror.jpg" alt="Generative Agents" title="Generative Agents" width="300">
 
 ## 3. Behavioral Emergence Analysis
 
