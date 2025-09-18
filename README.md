@@ -21,6 +21,8 @@ and chooses when (or if) to respond.
 2. [Entity vs Pax](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/The-Entity-vs-Pax.md) : _Comparative study between the Echo Entity and Bandersnatch’s Pax._
 3. [Meta Gaming](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Meta-Gaming.md) : _Analysis of meta-narrative and “player awareness” in interactive systems._
 4. [Unity Inference Engine](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Unity-Inference-AI-Engine/Unity-Inference-Engine.ipynb) : _Technical exploration of integrating inference engines into Unity._
+5. [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Research/Generative-Agents-Interactive-Simulacra-of-Human-Behavior.ipynb) : _The paper introduces generative agents, virtual characters that simulate believable human behavior._
+6. [Generative Agents Structure](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative-Agents.ipynb) : _A generative agent is an orchestrated LLM with an architecture that adds three fundamental modules: Memory, Reflection, and Planning._
 
 ---
 
