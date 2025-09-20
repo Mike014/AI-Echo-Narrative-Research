@@ -24,6 +24,7 @@ and chooses when (or if) to respond.
 5. [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Research/Generative-Agents-Interactive-Simulacra-of-Human-Behavior.ipynb) : _The paper introduces generative agents, virtual characters that simulate believable human behavior._
 6. [Generative Agents Structure](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative-Agents.ipynb) : _A generative agent is an orchestrated LLM with an architecture that adds three fundamental modules: Memory, Reflection, and Planning._
 7. [Generative_Agents_vs_Black_Mirror_Plaything_Analysis](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative_Agents_vs_Black_Mirror_Plaything_Analysis.md) : _Analyzing the Convergent Narratives of Generative Agents and Black Mirror's "Plaything"_
+8. [ENTITÀ: Toward Non-Deterministic NPCs](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTIT%C3%80-Non-Deterministic-NPCs.ipynb) : _ENTITÀ proposes a different model: a non-deterministic and asymmetric NPC, one that not only changes how it responds but also when it chooses to respond._
 ---
 
 ## Setup
