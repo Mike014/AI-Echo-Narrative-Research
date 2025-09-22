@@ -26,6 +26,7 @@ and chooses when (or if) to respond.
 7. [Generative_Agents_vs_Black_Mirror_Plaything_Analysis](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative_Agents_vs_Black_Mirror_Plaything_Analysis.md) : _Analyzing the Convergent Narratives of Generative Agents and Black Mirror's "Plaything"_
 8. [ENTITÀ: Toward Non-Deterministic NPCs](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTIT%C3%80-Non-Deterministic-NPCs.ipynb) : _ENTITÀ proposes a different model: a non-deterministic and asymmetric NPC, one that not only changes how it responds but also when it chooses to respond._
 9. [ENTITÀ: Entity Brain, TemporalController](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/entita-brain-temporal-controller.md) : _The EntityBrain manages when and how ENTITY speaks, with EMA, probabilistic gating, and emotions._
+10. [Temporal Controller](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/TemporalController.md) : _The TemporalController is the module that decides whether ENTITÀ should speak or remain silent._
 ---
 
 ## Setup
