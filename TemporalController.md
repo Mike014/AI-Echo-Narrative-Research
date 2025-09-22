@@ -27,7 +27,7 @@ The **TemporalController** is the module that decides whether ENTITÀ should spe
    * **Rate control**: if it talks too often, probability decreases; if it stays silent for too long, probability increases.
    * **Random noise**: a small random factor keeps behavior unpredictable.
 
-**In short:** the TemporalController allows ENTITÀ to decide **whether** to respond, not just **what** to say. This shifts the paradigm from *input → output* to *input → decision → (response | silence)*.
+**In short:** the TemporalController allows ENTITÀ to decide **whether** to respond, not just **what** to say. This shifts the paradigm from *input → output* to *input → decision → (response | silence)*. **ENTITY** simulates a **dynamic pseudo-psychological personality**, where **EMA** regulates the **rhythm**, **hysteresis** stabilizes the **mood**, and a **probabilistic calculation** decides whether to **speak** or remain **silent**, giving the impression of an **autonomous will**.
 
 ---
 
