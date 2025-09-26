@@ -38,11 +38,12 @@ and chooses when (or if) to respond.
 10. [ENTITÀ: Toward Non-Deterministic NPCs](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTIT%C3%80-Non-Deterministic-NPCs.ipynb) : *A model for asymmetric, non-deterministic NPC behavior.*
 11. [ENTITÀ: Entity Brain, TemporalController](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/entita-brain-temporal-controller.md) : *Manages when and how ENTITY speaks, with EMA, gating, and emotions.*
 12. [Temporal Controller](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/TemporalController.md) : *Module that decides whether ENTITÀ should speak or remain silent.*
-13. [Unity Inference Engine](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Unity-Inference-AI-Engine/Unity-Inference-Engine.ipynb) : *Exploration of integrating inference engines into Unity.*
+13. [ENTITÀ — Gate Metrics Report](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTITY-Gate-Metrics-Report.md) : _This document summarizes when and why ENTITÀ stays silent during the test session._
+14. [Unity Inference Engine](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Unity-Inference-AI-Engine/Unity-Inference-Engine.ipynb) : *Exploration of integrating inference engines into Unity.*
 
 ### **Publications & Dissemination**
 
-14. [Preprint on Zenodo — Ongoing Research in Development](https://zenodo.org/records/17198849) : *AI narrative, trauma, experimental psychodrama.*
+15. [Preprint on Zenodo — Ongoing Research in Development](https://zenodo.org/records/17198849) : *AI narrative, trauma, experimental psychodrama.*
 
 ---
 
