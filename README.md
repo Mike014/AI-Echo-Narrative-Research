@@ -14,6 +14,8 @@ The research explores how **generative AI** and **interactive storytelling** can
 a *conscious, mysterious digital entity* — a presence that observes, listens,  
 and chooses when (or if) to respond.  
 
+**YouTube Showcase Playlist** - [Watch the Video](https://www.youtube.com/watch?v=0Y-_Rt0oZkU&list=PLgKASgLUSpNYKyusWO6iHcxTe-odeIho1)
+
 ---
 
 ## **Index of Research**
