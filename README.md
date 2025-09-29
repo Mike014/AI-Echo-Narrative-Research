@@ -32,7 +32,7 @@ and chooses when (or if) to respond.
 7. [Meta Gaming](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Meta-Gaming.md) : *Analysis of meta-narrative and "player awareness" in interactive systems.*
 
 ### **Design Framework & Methodology**
-8. [MDA Framework — Dialoghi con un'Eco](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/MDA.md) : *Mechanics-Dynamics-Aesthetics analysis of the prototype, including experimental Metronarrative framework.*
+8. [MDA Framework — Dialoghi con un'Eco](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/MDA.ipynb) : *Mechanics-Dynamics-Aesthetics analysis of the prototype, including experimental Metronarrative framework.*
 
 ### **Technical Architecture & AI Research**
 9. [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Research/Generative-Agents-Interactive-Simulacra-of-Human-Behavior.ipynb) : *Virtual characters that simulate believable human behavior.*
