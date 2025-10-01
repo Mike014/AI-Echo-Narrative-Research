@@ -54,11 +54,12 @@ This repository, and its preprint on **Zenodo** (with ~100 downloads), frames th
 13. [ENTITÀ: Entity Brain, Temporal Controller](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/entita-brain-temporal-controller.md) — *Core module managing silence, gating, and emotional states.*
 14. [Temporal Controller](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/TemporalController.md) — *Component that decides whether ENTITY should speak or remain silent.*
 15. [ENTITÀ — Silence vs. Speech Report](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTITY-Gate-Metrics-Report.md) — *Analysis of silence as a functional narrative device.*
-16. [Unity Inference Engine](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Unity-Inference-AI-Engine/Unity-Inference-Engine.ipynb) — *Exploration of integrating inference engines into Unity.*
+16. [Technical Report — Affective State and Behavior of ENTITÀ](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Report%E2%80%94Affective-state-and-behavior-of-ENTITY.ipynb) — *ENTITY's mood shifts: **silence** increases, moving from **curious** to **bored** to **irritated**.*
+17. [Unity Inference Engine](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Unity-Inference-AI-Engine/Unity-Inference-Engine.ipynb) — *Exploration of integrating inference engines into Unity.*
 
 ### Publications & Dissemination
 
-16. [Preprint on Zenodo — Ongoing Research in Development](https://zenodo.org/records/17198849) — *AI narrative, trauma, experimental psychodrama.*
+18. [Preprint on Zenodo — Ongoing Research in Development](https://zenodo.org/records/17198849) — *AI narrative, trauma, experimental psychodrama.*
 
 ---
 
