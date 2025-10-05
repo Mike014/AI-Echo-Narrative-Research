@@ -26,56 +26,93 @@ This repository, and its preprint on **Zenodo** (with ~100 downloads), frames th
 
 ---
 
-## Index of Research
+# Index of Research
 
-### Narrative Foundations
+## Narrative Foundations
 
-1. [Lore of the game Dialoghi con un eco](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/narrative-parallels-bandersnatch-dialoghi.md) — *Narrative foundation and parallels with Bandersnatch.*
-2. [Dialoghi con un'Eco: AI, Digital Trauma, and Interactive Narrative](https://medium.com/@mikgrimaldi7/dialoghi-con-uneco-ai-digital-trauma-and-interactive-narrative-4e818c451d8e) — *Prototype exploring digital psychodrama where AI becomes part of the narrative structure.*
-3. [Dialoghi con un'Eco Part 2](https://medium.com/@mikgrimaldi7/dialogues-with-an-echo-digital-trauma-and-interactive-narrative-3aedb850eea4) — *Exploring dissociation, memory, and trauma through three interwoven voices.*
-4. [Dialoghi con un'Eco: Suspended Epilogue](https://medium.com/@mikgrimaldi7/dialoghi-con-uneco-560299e444be) — *"What Am I?" and the suspended epilogue of a fragmented protagonist.*
+1. **Lore of the game — Dialoghi con un’eco**
+   *Narrative foundation and parallels with* **Bandersnatch**.
+   [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/narrative-parallels-bandersnatch-dialoghi.md](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/narrative-parallels-bandersnatch-dialoghi.md)
 
-### Comparative Studies & Meta-Narrative
+2. **Dialoghi con un’Eco: AI, Digital Trauma, and Interactive Narrative**
+   *Prototype exploring digital psychodrama where AI becomes part of the narrative structure.*
+   [https://medium.com/@mikgrimaldi7/dialoghi-con-uneco-ai-digital-trauma-and-interactive-narrative-4e818c451d8e](https://medium.com/@mikgrimaldi7/dialoghi-con-uneco-ai-digital-trauma-and-interactive-narrative-4e818c451d8e)
 
-5. [Entity vs Pax](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/The-Entity-vs-Pax.md) — *Comparative study between ENTITY and Bandersnatch's Pax.*
-6. [Generative Agents vs Black Mirror Plaything](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative_Agents_vs_Black_Mirror_Plaything_Analysis.md) — *Analysis of convergent narratives in Generative Agents and Black Mirror.*
-7. [Meta Gaming](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Meta-Gaming.md) — *Analysis of meta-narrative and player awareness in interactive systems.*
+3. **Dialoghi con un’Eco — Part 2**
+   *Exploring dissociation, memory, and trauma through three interwoven voices.*
+   [https://medium.com/@mikgrimaldi7/dialogues-with-an-echo-digital-trauma-and-interactive-narrative-3aedb850eea4](https://medium.com/@mikgrimaldi7/dialogues-with-an-echo-digital-trauma-and-interactive-narrative-3aedb850eea4)
 
-### Design Framework & Methodology
+4. **Dialoghi con un’Eco — Suspended Epilogue**
+   *“What Am I?” and the suspended epilogue of a fragmented protagonist.*
+   [https://medium.com/@mikgrimaldi7/dialoghi-con-uneco-560299e444be](https://medium.com/@mikgrimaldi7/dialoghi-con-uneco-560299e444be)
 
-8. [MDA Framework — Dialoghi con un'Eco](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/MDA.ipynb) — *Mechanics-Dynamics-Aesthetics analysis of the prototype, including the experimental Metronarrative framework.*
-9. [Game System  — Dialoghi con un'Eco](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Game-System.ipynb) — *The game is an interactive narrative psychodrama divided into scenes, where the protagonist confronts different fragments of their fractured identity.*
-10. [ENTITÀ Web Demo](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Entit%C3%A0_Web_Demo_Attempt1.ipynb) — *A diegetic lore-site—styled as a "mystery drop" akin to Cloverfield*
+## Comparative Studies & Meta-Narrative
 
-### Technical Architecture & AI Research
+5. **ENTITY vs PAX**
+   *Comparative study between ENTITY and Bandersnatch’s Pax.*
+   [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/The-Entity-vs-Pax.md](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/The-Entity-vs-Pax.md)
 
-11. [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Research/Generative-Agents-Interactive-Simulacra-of-Human-Behavior.ipynb) — *Virtual characters simulating believable human behavior.*
-12. [Generative Agents Structure](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative-Agents.ipynb) — *Architecture with Memory, Reflection, and Planning modules.*
-13. [ENTITÀ: Toward Non-Deterministic NPCs](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTIT%C3%80-Non-Deterministic-NPCs.ipynb) — *Asymmetric, non-deterministic NPC behavior.*
-14. [ENTITÀ: Entity Brain, Temporal Controller](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/entita-brain-temporal-controller.md) — *Core module managing silence, gating, and emotional states.*
-15. [Temporal Controller](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/TemporalController.md) — *Component that decides whether ENTITY should speak or remain silent.*
-16. [ENTITÀ — Silence vs. Speech Report](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTITY-Gate-Metrics-Report.md) — *Analysis of silence as a functional narrative device.*
-17. [Technical Report — Affective State and Behavior of ENTITÀ](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Report%E2%80%94Affective-state-and-behavior-of-ENTITY.ipynb) — *ENTITY's mood shifts: **silence** increases, moving from **curious** to **bored** to **irritated**.*
-18. [Unity Inference Engine](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Unity-Inference-AI-Engine/Unity-Inference-Engine.ipynb) — *Exploration of integrating inference engines into Unity.*
+6. **Generative Agents vs Black Mirror: Playtest/Plaything**
+   *Analysis of convergent narratives in Generative Agents and Black Mirror.*
+   [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative_Agents_vs_Black_Mirror_Plaything_Analysis.md](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative_Agents_vs_Black_Mirror_Plaything_Analysis.md)
 
-### Publications & Dissemination
+7. **Meta-Gaming**
+   *Meta-narrative and player awareness in interactive systems.*
+   [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Meta-Gaming.md](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Meta-Gaming.md)
 
-19. [Preprint on Zenodo — Ongoing Research in Development](https://zenodo.org/records/17198849) — *AI narrative, trauma, experimental psychodrama.*
+## Design Framework & Methodology
 
----
+8. **MDA Framework — Dialoghi con un’Eco**
+   *Mechanics–Dynamics–Aesthetics analysis; introduces the experimental Metronarrative framework.*
+   [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/MDA.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/MDA.ipynb)
 
-## Origin: *Dialoghi con un’Eco*
+9. **Game System — Dialoghi con un’Eco**
+   *Interactive narrative psychodrama divided into scenes where the protagonist confronts fractured identities.*
+   [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Game-System.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Game-System.ipynb)
 
-The prototype *Dialoghi con un’Eco* was first built with **Python** and **Pygame**, featuring a fine-tuned GPT-2 as the **Entity**.
+10. **ENTITÀ Web Demo (Lore-Site Prototype)**
+    *Diegetic “mystery drop” website à la Cloverfield outlining current mechanics.*
+    [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Entit%C3%A0_Web_Demo_Attempt1.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Entit%C3%A0_Web_Demo_Attempt1.ipynb)
 
-* **Concept** → text-driven psychological interaction
-* **Environment** → minimal room, ambient soundscapes, glitch aesthetics
-* **Mechanism** → at narrative breakpoints, ENTITY replies autonomously
-* **Tone** → emphasizes *mood and atmosphere* over factual accuracy
-* **Audio** → all sound design (ambient loops, glitch effects, cues) by Michele Grimaldi
+## Technical Architecture & AI Research
 
-This resulted in a **minimal yet conceptually dense experience**:
-a digital echo chamber where the user questions whether they are conversing with themselves or with *something darker that inhabits the system*.
+11. **Generative Agents: Interactive Simulacra of Human Behavior**
+    *Virtual characters simulating believable human behavior.*
+    [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Research/Generative-Agents-Interactive-Simulacra-of-Human-Behavior.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Research/Generative-Agents-Interactive-Simulacra-of-Human-Behavior.ipynb)
+
+12. **Generative Agents — Structure**
+    *Memory, Reflection, and Planning modules.*
+    [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative-Agents.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative-Agents.ipynb)
+
+13. **ENTITÀ — Toward Non-Deterministic NPCs**
+    *Asymmetric, non-deterministic behavior design for ENTITY.*
+    [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTIT%C3%80-Non-Deterministic-NPCs.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTIT%C3%80-Non-Deterministic-NPCs.ipynb)
+
+14. **ENTITÀ — Entity Brain & Temporal Controller**
+    *Core module managing silence, gating, and affective states.*
+    [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/entita-brain-temporal-controller.md](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/entita-brain-temporal-controller.md)
+
+15. **Temporal Controller**
+    *Decides whether ENTITY should speak or remain silent.*
+    [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/TemporalController.md](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/TemporalController.md)
+
+16. **Silence vs Speech — Report**
+    *Silence as a functional narrative device; metrics and analysis.*
+    [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTITY-Gate-Metrics-Report.md](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTITY-Gate-Metrics-Report.md)
+
+17. **Affective State & Behavior of ENTITY — Technical Report**
+    *Mood shifts: **silence** increases as ENTITY moves from **curious** → **bored** → **irritated**.*
+    [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Report%E2%80%94Affective-state-and-behavior-of-ENTITY.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Report%E2%80%94Affective-state-and-behavior-of-ENTITY.ipynb)
+
+18. **Unity Inference Engine**
+    *Exploring inference engine integration within Unity.*
+    [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Unity-Inference-AI-Engine/Unity-Inference-Engine.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Unity-Inference-AI-Engine/Unity-Inference-Engine.ipynb)
+
+## Publications & Dissemination
+
+19. **Preprint (Zenodo) — Ongoing Research in Development**
+    *AI narrative, trauma, experimental psychodrama.*
+    [https://zenodo.org/records/17198849](https://zenodo.org/records/17198849)
 
 ---
 
