@@ -45,21 +45,22 @@ This repository, and its preprint on **Zenodo** (with ~100 downloads), frames th
 
 8. [MDA Framework — Dialoghi con un'Eco](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/MDA.ipynb) — *Mechanics-Dynamics-Aesthetics analysis of the prototype, including the experimental Metronarrative framework.*
 9. [Game System  — Dialoghi con un'Eco](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Game-System.ipynb) — *The game is an interactive narrative psychodrama divided into scenes, where the protagonist confronts different fragments of their fractured identity.*
+10. [ENTITÀ Web Demo](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Entit%C3%A0_Web_Demo_Attempt1.ipynb) — *A diegetic lore-site—styled as a "mystery drop" akin to Cloverfield*
 
 ### Technical Architecture & AI Research
 
-10. [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Research/Generative-Agents-Interactive-Simulacra-of-Human-Behavior.ipynb) — *Virtual characters simulating believable human behavior.*
-11. [Generative Agents Structure](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative-Agents.ipynb) — *Architecture with Memory, Reflection, and Planning modules.*
-12. [ENTITÀ: Toward Non-Deterministic NPCs](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTIT%C3%80-Non-Deterministic-NPCs.ipynb) — *Asymmetric, non-deterministic NPC behavior.*
-13. [ENTITÀ: Entity Brain, Temporal Controller](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/entita-brain-temporal-controller.md) — *Core module managing silence, gating, and emotional states.*
-14. [Temporal Controller](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/TemporalController.md) — *Component that decides whether ENTITY should speak or remain silent.*
-15. [ENTITÀ — Silence vs. Speech Report](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTITY-Gate-Metrics-Report.md) — *Analysis of silence as a functional narrative device.*
-16. [Technical Report — Affective State and Behavior of ENTITÀ](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Report%E2%80%94Affective-state-and-behavior-of-ENTITY.ipynb) — *ENTITY's mood shifts: **silence** increases, moving from **curious** to **bored** to **irritated**.*
-17. [Unity Inference Engine](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Unity-Inference-AI-Engine/Unity-Inference-Engine.ipynb) — *Exploration of integrating inference engines into Unity.*
+11. [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Research/Generative-Agents-Interactive-Simulacra-of-Human-Behavior.ipynb) — *Virtual characters simulating believable human behavior.*
+12. [Generative Agents Structure](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative-Agents.ipynb) — *Architecture with Memory, Reflection, and Planning modules.*
+13. [ENTITÀ: Toward Non-Deterministic NPCs](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTIT%C3%80-Non-Deterministic-NPCs.ipynb) — *Asymmetric, non-deterministic NPC behavior.*
+14. [ENTITÀ: Entity Brain, Temporal Controller](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/entita-brain-temporal-controller.md) — *Core module managing silence, gating, and emotional states.*
+15. [Temporal Controller](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/TemporalController.md) — *Component that decides whether ENTITY should speak or remain silent.*
+16. [ENTITÀ — Silence vs. Speech Report](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTITY-Gate-Metrics-Report.md) — *Analysis of silence as a functional narrative device.*
+17. [Technical Report — Affective State and Behavior of ENTITÀ](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Report%E2%80%94Affective-state-and-behavior-of-ENTITY.ipynb) — *ENTITY's mood shifts: **silence** increases, moving from **curious** to **bored** to **irritated**.*
+18. [Unity Inference Engine](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Unity-Inference-AI-Engine/Unity-Inference-Engine.ipynb) — *Exploration of integrating inference engines into Unity.*
 
 ### Publications & Dissemination
 
-18. [Preprint on Zenodo — Ongoing Research in Development](https://zenodo.org/records/17198849) — *AI narrative, trauma, experimental psychodrama.*
+19. [Preprint on Zenodo — Ongoing Research in Development](https://zenodo.org/records/17198849) — *AI narrative, trauma, experimental psychodrama.*
 
 ---
 
