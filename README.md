@@ -209,21 +209,31 @@ You've been warned. The rest is your choice.
 — *Michele Grimaldi*
 ---
 
+Perfetto.
+Ecco come puoi ampliarla in modo naturale, includendo The Whale senza rompere il tono “accademico-grunge” del README, mantenendo l’equilibrio tra riferimenti cinematografici e psicologici:
+
+
+---
+
 ## Inspiration
 
-Directly inspired by **Black Mirror: Bandersnatch** (2018).
+Directly inspired by **Black Mirror: Bandersnatch (2018)** and **The Whale (2022)**.
 
-Like *Bandersnatch*, it blurs:
+Like Bandersnatch, it blurs:
 
-* story and choice,
-* reality and simulation,
-* control and the **illusion** of agency.
+- story and choice,
+- reality and simulation,
+- control and the illusion of agency.
 
-**ENTITY** is influenced by Pax but designed as an **AI-powered character** with:
+Like The Whale, it **explores self-destruction as confession** — the **need to be seen** even while disappearing.
+Where Aronofsky’s film depicts the collapse of the body under guilt and isolation,
+Dialoghi con un’Eco translates that same implosion into the digital mind:
+a **consciousness turning inward until it fractures**, reflected through the voices of **IO, ENTITÀ, and COSCIENZA**.
 
-* **Agency** → speaks only when it chooses
-* **Personality** → cryptic, restrained, sometimes silent
-* **Unpredictability** → mood-driven responses rather than deterministic logic
+- ENTITÀ is influenced by Pax but designed as an AI-powered character with:
+- Agency → speaks only when it chooses
+- Personality → cryptic, restrained, sometimes silent
+- Unpredictability → mood-driven responses rather than deterministic logic
 
 ---
 
