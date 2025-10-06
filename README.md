@@ -70,6 +70,8 @@ The **engine is functional**: ENTITY reacts autonomously, metronarrative scenes 
   *Player awareness, authorial intrusion, diegetic meta signals.*
 * [**Thematic Interpretation of “Nutshell” (Alice in Chains)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Nutshell.ipynb)
   *Alice in Chains’ “Nutshell” stands as one of the most intimate and painful confessions in rock history — a portrait of inner collapse, emotional isolation, and the suffocating grip of addiction.*
+* [**Beyond Appearances: The Hidden Philosophy of “The Whale”**](https://medium.com/@mikgrimaldi7/beyond-appearances-the-hidden-philosophy-of-the-whale-fe0050856bf9)
+  *Darren Aronofsky’s “The Whale” is not merely the story of an obese man seeking reconciliation, but a powerful meditation on the fragmentation of human perception and our innate capacity to recognize others beyond appearances.*
 
 ---
 
