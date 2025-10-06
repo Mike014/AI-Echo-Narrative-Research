@@ -122,23 +122,89 @@ The **engine is functional**: ENTITY reacts autonomously, metronarrative scenes 
 
 ### 7) Safety, Ethics & Content Guidelines
 
-* **Intent & Framing**
-  *Portray loneliness, intrusive thoughts, and self-destructive ideation **without glamorization**; emphasize consequences and limits.*
-* **Diegetic Safeguards**
-  *Within the story, COSCIENZA enforces **boundaries, pauses, escalation limits**; ENTITÀ’s pressure is contextualized, not celebrated.*
-* **Alternatives & Agency**
-  *Show **de-escalation choices** (contact, delay, routine) even if the protagonist refuses them; keep agency visible.*
-* **Language**
-  *Avoid sensational detail; use **clear, clinical phrasing** for harm-related content.*
-* **Signals & Warnings**
-  *Provide **content notes** and opt-outs for sensitive sequences.*
-* **Resources (Credits/Appendix)**
-  *Link to **support resources** and hotlines relevant to your audience.*
-* **Testing & Review**
-  *Use sensitivity readers / trusted peers to catch unintended glamorization or harm.*
-* **Documentation**
-  *Keep an ethics changelog: why a scene exists, what function it serves, what safeguards are in place.*
+**⚠️ CONTENT WARNING — MATURE AUDIENCES ONLY (18+)**
 
+*Dialoghi con un'Eco* is a **psychological exploration of self-destruction, isolation, and the slow unraveling of identity**. 
+
+This work is directly inspired by the lives and deaths of artists who struggled with—and ultimately succumbed to—internal darkness: **Kurt Cobain, Layne Staley, Heath Ledger, Chester Bennington**. It examines the psychology of **slow suicide**—not as a sudden act, but as a **gradual disappearance** of the self through isolation, addiction to pain, and the seductive voice of self-annihilation.
+
+---
+
+**This narrative explores:**
+
+- **Suicidal ideation** and the romanticization of self-destruction
+- **Intrusive thoughts** presented as an intimate, persistent voice
+- **Dissociation** and identity fragmentation
+- **The gap between wanting help and refusing it**
+- **Loneliness as a chosen prison**
+- **The line between artistic melancholy and clinical despair**
+
+The story does **not glorify** these experiences. It **does not offer solutions**. It does not promise recovery or redemption.
+
+What it offers is **recognition**—of the voice that whispers in the dark, of the weight of existing, of the terrible logic that makes oblivion feel like relief.
+
+---
+
+**⚠️ SPECIFIC RISKS:**
+
+- **If you are currently experiencing suicidal ideation**, this work may **intensify** those feelings
+- **If you have lost someone to suicide**, certain scenes may be **re-traumatizing**
+- **If you are in active crisis**, this is **not the time** to engage with this material
+- The experience is designed to **simulate psychological pressure**—discomfort is intentional, but your safety is not negotiable
+
+**This is not catharsis. This is not therapy. This is a mirror held up to something most people look away from.**
+
+---
+
+**Before you proceed, ask yourself:**
+
+- Am I in a stable enough mental state to confront this material?
+- Do I have support available if this becomes overwhelming?
+- Can I disengage if I need to?
+
+**If the answer to any of these is "no," please step back. This work will still be here when you're ready—or it may never be the right time, and that's okay.**
+
+---
+
+#### Support Resources
+
+If you or someone you know is struggling with suicidal thoughts or mental health crisis:
+
+**International:**
+- **International Association for Suicide Prevention**: https://www.iasp.info/resources/Crisis_Centres/
+- **Befrienders Worldwide**: https://www.befrienders.org
+- **Crisis Text Line** (US/Canada/UK): Text HOME to 741741
+
+**Italy:**
+- **Telefono Amico Italia**: 02 2327 2327
+- **Samaritans Onlus**: 800 86 00 22
+- **Telefono Azzurro** (under 18): 19696
+
+**Emergency (Italy)**: 112
+
+---
+
+**By proceeding, you acknowledge:**
+
+- You are **18+ years of age**
+- You have read and understood the content warnings
+- You understand this work explores **suicidal ideation and self-destruction** without offering resolution
+- You are in a **stable enough state** to engage with this material
+- You can **disengage at any time** if the experience becomes harmful
+- **This is not therapy**, and engaging with it is not a substitute for professional mental health support
+
+---
+
+**If you choose to proceed:**
+
+This story exists because these feelings exist.  
+Not to celebrate them. Not to encourage them.  
+But to **name** them, in the only way art can—  
+by making them impossible to look away from.
+
+You've been warned. The rest is your choice.
+
+— *Michele Grimaldi*
 ---
 
 ## Inspiration
