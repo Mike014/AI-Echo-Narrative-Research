@@ -7,20 +7,47 @@ Michele Grimaldi · 2025
 
 ## Overview
 
-This repository documents an **independent research project** at the intersection of **AI, game design, and digital narrative**.
+This repository documents an **independent research prototype** at the intersection of **AI, game design, and digital narrative**.
 
-The project originates from the experimental prototype *Dialoghi con un’Eco*, evolving into what can be described as a **digital psychodrama**: an interactive system where the player’s choices shape not only the story but the very **fragmentation of the protagonist’s identity**.
+The work originates from *Dialoghi con un’Eco* and evolves into a **digital psychodrama** where **ENTITY**—not a scripted NPC but an **agentic AI**—can **choose when to speak or remain silent**. A **Temporal Controller** (multi-scale EMA, hysteresis, cooldown) turns **time and silence** into first-class mechanics, avoiding chatbot-style reactivity.
 
-At its core lies the **ENTITY**, not a scripted NPC but an **agentic AI agent** equipped with a *Temporal Controller*. Unlike traditional NPCs, ENTITY can **choose when to respond or remain silent**, making **absence** as significant as speech. This creates a form of **non-deterministic agency**, breaking away from predictable chatbot-like behaviors.
+Two design components anchor the prototype:
 
-Two novel design components are central to this research:
+* **Entity Brain + Temporal Controller** — governs silence/speech decisions, timing, and mood-biased interventions.
+* **Metronarrative framework** — scenes aligned to a beat/tempo grid where rhythm, pauses, and breaks carry narrative meaning.
+* **Entity Director (real-time notifications & paratext)** — A small “external director” that **reads dialog context, scores emotional channels, and decides interventions**—desktop note lines, guaranteed toasts, optional OS toasts—with **cooldowns, de-duplication, and icon handling**.
 
-* **Entity Brain + Temporal Controller** → defines ENTITY’s logic of silence, timing, and mood-based interventions.
-* **Metronarrative framework** → a narrative system synchronized with a musical beat grid, where silence, rhythm, and breaks become part of storytelling.
+The **engine is already functional**: ENTITY reacts autonomously, metronarrative scenes run end-to-end, and the **Entity Director** orchestrates real-time side effects in a sandboxed way. What’s still in progress is the **game-design articulation** (core loop, player verbs, onboarding) to turn the research system into a fully playable slice.
 
-The **engine already exists and functions**: ENTITY responds autonomously, the *Entity Director* interacts with the OS sandbox, and the metronarrative scenes are operational. What remains under development is the **game design articulation** — transforming these experimental mechanics into a fully realized narrative experience.
+### Recent engine updates
 
-This repository, and its preprint on **Zenodo** (with ~100 downloads), frames the project explicitly as **research**, positioned between AI experimentation, interactive fiction, and game design methodology.
+* **Neural TTS voice for ENTITY**
+  New voice pipeline (Neural TTS + light post-FX) delivers a **hybrid timbre**—influenced by Heath Ledger’s Joker (attack/taunt) and grunge vocal textures (Layne Staley, Kurt Cobain). Results: **more fluid laugh transitions** and a darker, controlled single-sentence delivery.
+
+* **Environment detection (“establish environment”)**
+  Runtime detection of **OS and screen resolution/DPI** to:
+
+  * scale UI safely across displays,
+  * enable **OS-aware affordances** in a **sandboxed** manner (simulate notes/overlays in-game when *Safe Mode* is on),
+  * log session metadata (`os`, `resolution`, `dpi`) for tuning.
+
+> Status: suitable for a **mini-demo** (engine-first). Next steps: packaging, safe defaults, and a clearer core loop.
+
+### Design status (in progress)
+
+* Define a **20–30 min vertical slice** with 2–3 outcomes.
+* Add **player verbs** that visibly modulate tension/silence (e.g., a “grounding” action).
+* Ship **preset behaviours** (e.g., *laconic / cinematic / provocative*) and **Safe Mode** by default.
+* Keep **telemetry** (TTFS, speak/silence ratio, intrusion spikes) to guide iteration.
+
+### Influences (design lens, not canon)
+
+* **Failsafe & paratext (Batman / Zur-En-Arrh)** — a **design lens** to formalize ritual triggers and a “Digital Casebook” (no DC IP in-game).
+* **Fragmented personas (“three masks”)** — ENTITY expresses **Clinical / Taunting / Invasive** personas chosen by state thresholds, not by writer fiat.
+* **Voice of the environment (Swamp Thing)** — the world “whispers” when long-silence builds (filters/ambience driven by state).
+* **Lyrics/poetry (Layne Staley, Kurt Cobain)** — concise, sensory lines and restrained prosody inform **one-sentence responses**.
+
+---
 
 **YouTube Showcase Playlist** → [Watch the Video](https://www.youtube.com/watch?v=0Y-_Rt0oZkU&list=PLgKASgLUSpNYKyusWO6iHcxTe-odeIho1)
 
