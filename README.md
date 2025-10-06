@@ -43,125 +43,103 @@ The **engine is functional**: ENTITY reacts autonomously, metronarrative scenes 
 
 ### 0) Vision & Premise
 
-* **Draft of the Premise (notebook)**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Creative_Writing/Draft_of_the_Premise.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Creative_Writing/Draft_of_the_Premise.ipynb)
-  *One-line premise and highlighted version; establishes IO–COSCIENZA–ENTITÀ → LUI and the “integrated–hard” outcome (power without consolation).*
+* [**Draft of the Premise (notebook)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Creative_Writing/Draft_of_the_Premise.ipynb)
+  *One-line premise and highlighted version; establishes IO–COSCIENZA–ENTITÀ → LUI and the “integrated–hard” outcome.*
 * **Anatomy of Story — Working Notes** *(placeholder)*
-  *Applying Truby’s premise, 7 steps, and designing principle to Dialoghi con un Eco; keeps the story organic and unified.*
+  *Applying Truby’s premise, 7 steps, and designing principle to keep the story organic and unified.*
 
 ---
 
 ### 1) Narrative Architecture (Story Space & Influences)
 
-* **Lore / World & Parallels**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/narrative-parallels-bandersnatch-dialoghi.md](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/narrative-parallels-bandersnatch-dialoghi.md)
-  *World/lore of the project and narrative parallels with Bandersnatch; defines tone, rules, and the meta layer.*
-* **Dialoghi con un’Eco: AI, Digital Trauma, and Interactive Narrative**
-  [https://medium.com/@mikgrimaldi7/dialoghi-con-uneco-ai-digital-trauma-and-interactive-narrative-4e818c451d8e](https://medium.com/@mikgrimaldi7/dialoghi-con-uneco-ai-digital-trauma-and-interactive-narrative-4e818c451d8e)
-  *Introduces the triad (IO–COSCIENZA–ENTITÀ), digital psychodrama, and the diary format as diegetic structure.*
-* **Dialogues with an Echo — Part 2**
-  [https://medium.com/@mikgrimaldi7/dialogues-with-an-echo-digital-trauma-and-interactive-narrative-3aedb850eea4](https://medium.com/@mikgrimaldi7/dialogues-with-an-echo-digital-trauma-and-interactive-narrative-3aedb850eea4)
-  *Explores dissociation, memory, and trauma via interwoven voices; expands the symbolic roles of IO/ENTITÀ/COSCIENZA.*
-* **Suspended Epilogue**
-  [https://medium.com/@mikgrimaldi7/dialoghi-con-uneco-560299e444be](https://medium.com/@mikgrimaldi7/dialoghi-con-uneco-560299e444be)
-  *“What am I?” as identity hinge; outlines a non-consolatory ending logic.*
-* **Batman: Zur-En-Arrh vs. Dialoghi con un’Eco**
-  [https://medium.com/@mikgrimaldi7/batman-zur-en-arrh-vs-dialoghi-con-uneco-symbolic-death-ego-failsafe-and-triadic-integration-6cc5f8fe68c5](https://medium.com/@mikgrimaldi7/batman-zur-en-arrh-vs-dialoghi-con-uneco-symbolic-death-ego-failsafe-and-triadic-integration-6cc5f8fe68c5)
-  *Frames LEI as trigger, ENTITÀ as intrusive failsafe, and COSCIENZA as containment—triadic integration lens.*
-* **Entity vs Pax**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/The-Entity-vs-Pax.md](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/The-Entity-vs-Pax.md)
-  *Compares ENTITÀ with Bandersnatch’s Pax to clarify antagonism, agency, and meta control.*
-* **Generative Agents vs Black Mirror Plaything**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative_Agents_vs_Black_Mirror_Plaything_Analysis.md](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative_Agents_vs_Black_Mirror_Plaything_Analysis.md)
-  *Convergent mechanics for simulated minds and authored meta-narratives; where they align/diverge.*
-* **Meta Gaming**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Meta-Gaming.md](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Meta-Gaming.md)
-  *Player awareness, authorial intrusion, and meta signals as part of the diegesis.*
+* [**Lore of the game Dialoghi con un eco**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/narrative-parallels-bandersnatch-dialoghi.md)
+  *World/lore, tone, rules, and parallels with Bandersnatch.*
+* [**Dialoghi con un’Eco: AI, Digital Trauma, and Interactive Narrative**](https://medium.com/@mikgrimaldi7/dialoghi-con-uneco-ai-digital-trauma-and-interactive-narrative-4e818c451d8e)
+  *Introduces the triad (IO–COSCIENZA–ENTITÀ), digital psychodrama, diary format.*
+* [**Dialogues with an Echo — Part 2**](https://medium.com/@mikgrimaldi7/dialogues-with-an-echo-digital-trauma-and-interactive-narrative-3aedb850eea4)
+  *Dissociation, memory, trauma via interwoven voices.*
+* [**Dialoghi con un’Eco: Suspended Epilogue**](https://medium.com/@mikgrimaldi7/dialoghi-con-uneco-560299e444be)
+  *“What am I?” hinge and non-consolatory ending logic.*
+* [**Batman: Zur-En-Arrh vs. Dialoghi con un’Eco — Symbolic Death, Ego Failsafe, and Triadic Integration**](https://medium.com/@mikgrimaldi7/batman-zur-en-arrh-vs-dialoghi-con-uneco-symbolic-death-ego-failsafe-and-triadic-integration-6cc5f8fe68c5)
+  *LEI as trigger; ENTITÀ as intrusive failsafe; COSCIENZA as containment.*
+* [**Entity vs Pax**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/The-Entity-vs-Pax.md)
+  *Compares ENTITÀ to Bandersnatch’s Pax (antagonism, agency, meta control).*
+* [**Generative Agents vs Black Mirror Plaything**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative_Agents_vs_Black_Mirror_Plaything_Analysis.md)
+  *Convergences between simulated minds and authored meta-narratives.*
+* [**Meta Gaming**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Meta-Gaming.md)
+  *Player awareness, authorial intrusion, diegetic meta signals.*
 
 ---
 
 ### 2) Game Design Framework
 
-* **MDA Framework — Dialoghi con un’Eco**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/MDA.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/MDA.ipynb)
-  *Mechanics–Dynamics–Aesthetics mapping; introduces “metronarrative” beats for identity pressure and release.*
-* **Game System — Dialoghi con un’Eco**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Game-System.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Game-System.ipynb)
-  *Scene-driven psychodrama structure; defines goals, obstacles, decisions, and costs (IO vs ENTITÀ under COSCIENZA).*
-* **Meta Gaming (design lens)**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Meta-Gaming.md](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Meta-Gaming.md)
-  *Design rules for fourth-wall nudges, diegetic UI, and narrative reliability.*
+* [**MDA Framework — Dialoghi con un’Eco**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/MDA.ipynb)
+  *Mechanics–Dynamics–Aesthetics mapping; metronarrative beats for identity pressure/release.*
+* [**Game System — Dialoghi con un’Eco**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Game-System.ipynb)
+  *Scene-driven psychodrama: goals, obstacles, decisions, costs (IO vs ENTITÀ, under COSCIENZA).*
+* [**Meta Gaming (design lens)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Meta-Gaming.md)
+  *Rules for fourth-wall nudges, diegetic UI, narrative reliability.*
 
 ---
 
 ### 3) Engine & AI Architecture
 
-* **ENTITÀ: Entity Brain & Temporal Controller**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/entita-brain-temporal-controller.md](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/entita-brain-temporal-controller.md)
-  *Core control loop: silence vs speech gating, emotional state machine, escalating pressure on IO.*
-* **Temporal Controller (spec)**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/TemporalController.md](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/TemporalController.md)
-  *Decision policy for whether ENTITÀ speaks, waits, or withholds—narrative pacing lever.*
-* **ENTITÀ — Non-Deterministic NPCs**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTIT%C3%80-Non-Deterministic-NPCs.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTIT%C3%80-Non-Deterministic-NPCs.ipynb)
-  *Asymmetric, stochastic behaviors that keep ENTITÀ legible yet unpredictable.*
-* **Silence vs. Speech Report**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTITY-Gate-Metrics-Report.md](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTITY-Gate-Metrics-Report.md)
-  *Why silence matters; how withholding becomes a functional narrative device (tension, anticipation).*
-* **Affective State & Behavior of ENTITÀ**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Report%E2%80%94Affective-state-and-behavior-of-ENTITY.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Report%E2%80%94Affective-state-and-behavior-of-ENTITY.ipynb)
-  *Mood trajectory model (silence → curious → bored → irritated) and its triggers; effects on player experience.*
-* **Unity Inference Engine (exploration)**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Unity-Inference-AI-Engine/Unity-Inference-Engine.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Unity-Inference-AI-Engine/Unity-Inference-Engine.ipynb)
-  *Early prototype for integrating inference pipelines into a realtime environment.*
-* **ENTITÀ Web Demo (diegetic site)**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Entit%C3%A0_Web_Demo_Attempt1.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Entit%C3%A0_Web_Demo_Attempt1.ipynb)
-  *Diegetic, in-world web surface; supports mystery-drop pacing and indirect exposition.*
+* [**ENTITÀ: Entity Brain & Temporal Controller**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/entita-brain-temporal-controller.md)
+  *Core control loop: silence/speech gating, affect, pressure curves.*
+* [**Temporal Controller (spec)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/TemporalController.md)
+  *Policy for speak/wait/withhold—primary pacing lever.*
+* [**ENTITÀ — Toward Non-Deterministic NPCs**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTIT%C3%80-Non-Deterministic-NPCs.ipynb)
+  *Asymmetric, stochastic behaviors: legible yet unpredictable.*
+* [**Unity Inference Engine (exploration)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Unity-Inference-AI-Engine/Unity-Inference-Engine.ipynb)
+  *Prototype path for realtime integration.*
+* [**ENTITÀ Web Demo (diegetic site)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Entit%C3%A0_Web_Demo_Attempt1.ipynb)
+  *In-world web surface; mystery-drop pacing and indirect exposition.*
 
 ---
 
 ### 4) Metrics & Evaluation
 
-* **Gate Metrics — Silence/Speech**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTITY-Gate-Metrics-Report.md](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTITY-Gate-Metrics-Report.md)
-  *Quantifies when ENTITÀ should speak or stay silent; correlates gating with tension and comprehension.*
-* **Affective Trajectories**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Report%E2%80%94Affective-state-and-behavior-of-ENTITY.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Report%E2%80%94Affective-state-and-behavior-of-ENTITY.ipynb)
-  *Measures mood shifts and their downstream narrative effects; informs tuning of the temporal controller.*
+* [**Gate Metrics — Silence/Speech**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ENTITY-Gate-Metrics-Report.md)
+  *Quantifies speaking vs silence; links gating to tension and comprehension.*
+* [**Affective Trajectories**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Report%E2%80%94Affective-state-and-behavior-of-ENTITY.ipynb)
+  *Measures mood shifts and their downstream effects; informs controller tuning.*
 
 ---
 
 ### 5) Research Corpus (Background & Theory)
 
-* **Generative Agents: Interactive Simulacra of Human Behavior**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Research/Generative-Agents-Interactive-Simulacra-of-Human-Behavior.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Research/Generative-Agents-Interactive-Simulacra-of-Human-Behavior.ipynb)
-  *Reference work for memory, reflection, and planning modules in simulated agents.*
-* **Generative Agents — Structure (notes)**
-  [https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative-Agents.ipynb](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative-Agents.ipynb)
-  *Practical breakdown of Memory / Reflection / Planning and how they map to ENTITÀ.*
+* [**Generative Agents: Interactive Simulacra of Human Behavior**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Research/Generative-Agents-Interactive-Simulacra-of-Human-Behavior.ipynb)
+  *Reference for Memory / Reflection / Planning in simulated agents.*
+* [**Generative Agents — Structure (notes)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Generative-Agents.ipynb)
+  *Working notes mapping GA modules to ENTITÀ’s architecture.*
 
 ---
 
 ### 6) Publications & Dissemination
 
-* **Preprint (Zenodo) — Ongoing Research in Development**
-  [https://zenodo.org/records/17198849](https://zenodo.org/records/17198849)
-  *Living preprint documenting narrative design, AI control strategies, and psychodrama framing.*
+* [**Preprint (Zenodo) — Ongoing Research in Development**](https://zenodo.org/records/17198849)
+  *Living preprint: narrative design, AI control strategies, psychodrama framing.*
 
 ---
 
 ### 7) Safety, Ethics & Content Guidelines
 
-*(for handling sensitive topics with care while maintaining artistic intent)*
-
-* **Intent & Framing**: portray loneliness, intrusive thoughts, and self-destructive ideation **without glamorization**; highlight consequences and limits.
-* **Diegetic Safeguards**: within the story, COSCIENZA enforces **boundaries, pauses, and escalation limits**; ENTITÀ’s pressure is contextualized, not celebrated.
-* **Alternatives & Agency**: show **choices that de-escalate** (contact, delay, routine) even if the protagonist refuses them; agency is visible, not removed.
-* **Language**: avoid sensational detail; prefer **clear, clinical phrasing** for harm-related content.
-* **Signals & Warnings**: provide **content notes** in intros/menus; allow players/readers to opt out of certain sequences.
-* **Resources (Credits/Appendix)**: include pointers to **support resources** and mental health hotlines relevant to the target regions.
-* **Testing & Review**: involve sensitivity readers or trusted peers to flag unintended glorification or harm patterns.
-* **Documentation**: keep a changelog of **design decisions** tied to ethics (why a scene exists, what function it serves, what safeguards are in place).
+* **Intent & Framing**
+  *Portray loneliness, intrusive thoughts, and self-destructive ideation **without glamorization**; emphasize consequences and limits.*
+* **Diegetic Safeguards**
+  *Within the story, COSCIENZA enforces **boundaries, pauses, escalation limits**; ENTITÀ’s pressure is contextualized, not celebrated.*
+* **Alternatives & Agency**
+  *Show **de-escalation choices** (contact, delay, routine) even if the protagonist refuses them; keep agency visible.*
+* **Language**
+  *Avoid sensational detail; use **clear, clinical phrasing** for harm-related content.*
+* **Signals & Warnings**
+  *Provide **content notes** and opt-outs for sensitive sequences.*
+* **Resources (Credits/Appendix)**
+  *Link to **support resources** and hotlines relevant to your audience.*
+* **Testing & Review**
+  *Use sensitivity readers / trusted peers to catch unintended glamorization or harm.*
+* **Documentation**
+  *Keep an ethics changelog: why a scene exists, what function it serves, what safeguards are in place.*
 
 ---
 
