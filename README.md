@@ -68,6 +68,8 @@ The **engine is functional**: ENTITY reacts autonomously, metronarrative scenes 
   *Convergences between simulated minds and authored meta-narratives.*
 * [**Meta Gaming**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Meta-Gaming.md)
   *Player awareness, authorial intrusion, diegetic meta signals.*
+* [**Thematic Interpretation of “Nutshell” (Alice in Chains)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Nutshell.ipynb)
+  *Alice in Chains’ “Nutshell” stands as one of the most intimate and painful confessions in rock history — a portrait of inner collapse, emotional isolation, and the suffocating grip of addiction.*
 
 ---
 
