@@ -226,12 +226,7 @@ in licensing this technology, contact: <mikgrimaldi7@gmail.com>
 
 © 2025 Michele Grimaldi
 
----
 
-## Author
-
-**Michele Grimaldi** — Multidisciplinary Python/C++ developer and independent AI researcher, specializing in **game audio, DSP, and machine learning**.
-[GitHub Profile](https://github.com/Mike014)
 
 
 
