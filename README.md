@@ -73,10 +73,8 @@ The **engine is functional**: ENTITY reacts autonomously, metronarrative scenes 
 
 ### 2) Game Design Framework
 
-* [**MDA Framework — Dialoghi con un’Eco**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/MDA.ipynb)
+* [**MDA + CCC Framework — Dialoghi con un’Eco**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/MDA.ipynb)
   *Mechanics–Dynamics–Aesthetics mapping; metronarrative beats for identity pressure/release.*
-* [**Game System — Dialoghi con un’Eco**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Game-System.ipynb)
-  *Scene-driven psychodrama: goals, obstacles, decisions, costs (IO vs ENTITÀ, under COSCIENZA).*
 * [**Meta Gaming (design lens)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Meta-Gaming.md)
   *Rules for fourth-wall nudges, diegetic UI, narrative reliability.*
 
