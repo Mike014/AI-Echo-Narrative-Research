@@ -3,7 +3,7 @@
 **Independent Research Project**
 Michele Grimaldi · 2025
 
-<img src="assets/img/logo_Dialoghi_con_un_eco.png" alt="Pax" title="Pax" width="500">
+<img src="assets/img/logo_Dialoghi_con_un_eco.png" alt="logo_Dialoghi_con_un_eco" title="logo_Dialoghi_con_un_eco" width="500">
 
 ---
 
