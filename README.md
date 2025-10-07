@@ -1,7 +1,9 @@
-# AI Echo Narrative Research
+# AI Echo Narrative Research — research project related to [Dialoghi con un’Eco](https://github.com/Mike014/ai-narrative-prototype)
 
 **Independent Research Project**
 Michele Grimaldi · 2025
+
+<img src="assets/img/logo_Dialoghi_con_un_eco.png" alt="Pax" title="Pax" width="500">
 
 ---
 
