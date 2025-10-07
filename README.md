@@ -1,7 +1,7 @@
 # AI Echo Narrative Research — research project related to [Dialoghi con un’Eco](https://github.com/Mike014/ai-narrative-prototype)
 
 **Independent Research Project**
-Michele Grimaldi · 2025
+- Michele Grimaldi · 2025
 
 <img src="assets/img/logo_Dialoghi_con_un_eco.png" alt="logo_Dialoghi_con_un_eco" title="logo_Dialoghi_con_un_eco" width="500">
 
@@ -11,7 +11,7 @@ Michele Grimaldi · 2025
 
 This repository documents an **independent research prototype** at the intersection of **AI (agentic AI), game design, digital narrative, sound design, poetry, and psychology**.
 
-The work originates from *Dialoghi con un’Eco* and evolves into a **digital psychodrama** where **ENTITY**—not a scripted NPC but an **agentic AI**—can **choose when to speak or remain silent**. A **Temporal Controller** (multi-scale EMA, hysteresis, cooldown) turns **time and silence** into first-class mechanics, avoiding chatbot-style reactivity.
+The work originates from *Dialoghi con un’Eco* and evolves into a **digital psychodrama** where **ENTITA'**—not a scripted NPC but an **agentic AI**—can **choose when to speak or remain silent**. A **Temporal Controller** (multi-scale EMA, hysteresis, cooldown) turns **time and silence** into first-class mechanics, avoiding chatbot-style reactivity.
 
 Three core components anchor the prototype:
 
@@ -19,11 +19,11 @@ Three core components anchor the prototype:
 * **Metronarrative framework** — scenes aligned to a beat/tempo grid where rhythm, pauses, and breaks carry narrative meaning.
 * **Entity Director (real-time notifications & paratext)** — an external orchestrator that reads dialog context, scores emotional channels, and triggers **sandboxed** side-effects (desktop-style note lines, guaranteed in-game toasts, optional OS-aware toasts) with **cooldowns** and **de-duplication**.
 
-The **engine is functional**: ENTITY reacts autonomously, metronarrative scenes run end-to-end, and the **Entity Director** coordinates real-time side effects safely. What’s still in progress is the **game-design articulation** (core loop, player verbs, onboarding) to turn the research system into a fully playable slice.
+The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes run end-to-end, and the **Entity Director** coordinates real-time side effects safely. What’s still in progress is the **game-design articulation** (core loop, player verbs, onboarding) to turn the research system into a fully playable slice.
 
 ### Recent engine updates
 
-* **Neural TTS voice for ENTITY**
+* **Neural TTS voice for [ENTITA'](https://www.youtube.com/watch?v=LAynzTdDBIE)**
   A new voice pipeline (Neural TTS + light post-FX) delivers a **hybrid timbre**—influenced by Heath Ledger’s Joker (attack/taunt) and grunge textures (Layne Staley, Kurt Cobain). Result: **more fluid laugh transitions** and a darker, controlled **single-sentence** delivery.
 
 * **Environment detection (“establish environment”)**
@@ -82,7 +82,7 @@ The **engine is functional**: ENTITY reacts autonomously, metronarrative scenes 
 ### 2) Game Design Framework
 
 * [**MDA + CCC Framework — Dialoghi con un’Eco**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/MDA.ipynb)
-  *Reading IO's diary accidentally activates ENTITY inside the system.*
+  *Reading IO's diary accidentally activates ENTITA' inside the system.*
 * [**Dialoghi con un’Eco — Light GDD (Demo)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Light_GDD.ipynb)
   *Interactive psychological thriller where ENTITÀ, an agentic AI, decides when to speak and when to remain silent.*
 
@@ -241,7 +241,7 @@ a **consciousness turning inward until it fractures**, reflected through the voi
 
 This repository functions as both **case study and experimental lab**, exploring:
 
-1. **Entity Modeling** — ENTITY as an agent, not a chatbot; **silence as deliberate choice**.
+1. **Entity Modeling** — ENTITA' as an agent, not a chatbot; **silence as deliberate choice**.
 2. **Narrative & Agency** — choice-driven progression; convergence toward **Lucid**, **Fragmented**, or **Dark** states.
 3. **Atmosphere & Immersion** — metronarrative rhythm; glitch, silence, and audio layers as narrative devices.
 4. **Comparative & Theoretical References** — *Bandersnatch*; Generative Agents (Stanford, 2023); procedural narrative (*PANGeA, arXiv 2404.19721*); symbolic storytelling (*The Dream Within Huang Long Cave, arXiv 2504.04968*).
