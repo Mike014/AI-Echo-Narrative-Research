@@ -81,6 +81,8 @@ The **engine is functional**: ENTITY reacts autonomously, metronarrative scenes 
 
 * [**MDA + CCC Framework — Dialoghi con un’Eco**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/MDA.ipynb)
   *Reading IO's diary accidentally activates ENTITY inside the system.*
+* [**Dialoghi con un’Eco — Light GDD (Demo)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Light_GDD.ipynb)
+  *Interactive psychological thriller where ENTITÀ, an agentic AI, decides when to speak and when to remain silent.*
 * [**Meta Gaming (design lens)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Meta-Gaming.md)
   *Rules for fourth-wall nudges, diegetic UI, narrative reliability.*
 
