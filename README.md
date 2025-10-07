@@ -211,12 +211,6 @@ You've been warned. The rest is your choice.
 — *Michele Grimaldi*
 ---
 
-Perfetto.
-Ecco come puoi ampliarla in modo naturale, includendo The Whale senza rompere il tono “accademico-grunge” del README, mantenendo l’equilibrio tra riferimenti cinematografici e psicologici:
-
-
----
-
 ## Inspiration
 
 Directly inspired by **Black Mirror: Bandersnatch (2018)** and **The Whale (2022)**.
