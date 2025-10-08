@@ -116,7 +116,13 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
 
 ---
 
-### 5) Research Corpus (Background & Theory)
+### 5) Operating Systems Architecture
+
+* [**What is an Operating System (OS)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Operating_Systems/Intro_to_OS.ipynb)
+  *An Operating System (OS) is the software that manages and coordinates all of a computer's resources*
+---
+
+### 6) Research Corpus (Background & Theory)
 
 * [**Generative Agents: Interactive Simulacra of Human Behavior**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Research/Generative-Agents-Interactive-Simulacra-of-Human-Behavior.ipynb)
   *Reference for Memory / Reflection / Planning in simulated agents.*
@@ -125,14 +131,14 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
 
 ---
 
-### 6) Publications & Dissemination
+### 7) Publications & Dissemination
 
 * [**Preprint (Zenodo) — Ongoing Research in Development**](https://zenodo.org/records/17198849)
   *Living preprint: narrative design, AI control strategies, psychodrama framing.*
 
 ---
 
-### 7) Safety, Ethics & Content Guidelines
+### 8) Safety, Ethics & Content Guidelines
 
 **⚠️ CONTENT WARNING — MATURE AUDIENCES ONLY (18+)**
 
