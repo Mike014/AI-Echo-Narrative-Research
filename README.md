@@ -116,7 +116,7 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
 
 ---
 
-### 5) Operating Systems Architecture
+### 5) Operating Systems Architecture, this is a detailed study guide Operating Systems: Three Easy Pieces (OSTEP) by Remzi and Andrea Arpaci-Dusseau
 
 * [**What is an Operating System (OS)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Operating_Systems/Intro_to_OS.ipynb)
   *An Operating System (OS) is the software that manages and coordinates all of a computer's resources*
