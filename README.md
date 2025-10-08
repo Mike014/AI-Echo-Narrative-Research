@@ -102,6 +102,8 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
   *Prototype path for realtime integration.*
 * [**ENTITÀ Web Demo (diegetic site)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Entit%C3%A0_Web_Demo_Attempt1.ipynb)
   *In-world web surface; mystery-drop pacing and indirect exposition.*
+* [**Simple System Architecture: Game & OS Agent**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Simple_System_Architecture_Game_and_OS_Agent.ipynb)
+  *Build a fast, responsive game that works on desktop and can be easily moved to the web, keeping things separate and safe.*
 
 ---
 
@@ -120,6 +122,8 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
 
 * [**What is an Operating System (OS)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Operating_Systems/Intro_to_OS.ipynb)
   *An Operating System (OS) is the software that manages and coordinates all of a computer's resources*
+* [**Virtualization - Still in Progress)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Operating_Systems/Virtualization.ipynb)
+  *Concepts of Virtualization, the process of creating a software-based, or "virtual," version of a computing resource*
 ---
 
 ### 6) Research Corpus (Background & Theory)
