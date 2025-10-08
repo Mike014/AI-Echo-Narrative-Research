@@ -76,6 +76,8 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
   *Darren Aronofsky’s “The Whale” is not merely the story of an obese man seeking reconciliation, but a powerful meditation on the fragmentation of human perception and our innate capacity to recognize others     beyond appearances.*
 * [**“Dialoghi con un’Eco” and Placebo’s “Song to Say Goodbye”**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Song_to_Say_Goodbye.ipynb) 
   *This document draws a parallel between the prototype Dialoghi con un’Eco and Placebo’s Song to Say Goodbye, focusing on the cinematic version of the official video directed by Philippe André.*
+* [**“Dialoghi con un’Eco” Conceptual Meaning of LEI**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/The_Meaning_of_LEI.ipynb) 
+  *LEI is a symbolic construct — the embodiment of dependency, melancholy, and creative obsession.*
   
 ---
 
@@ -109,6 +111,8 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
   *Quantifies speaking vs silence; links gating to tension and comprehension.*
 * [**Affective Trajectories**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Report%E2%80%94Affective-state-and-behavior-of-ENTITY.ipynb)
   *Measures mood shifts and their downstream effects; informs controller tuning.*
+* [**Hardening of ENTITÀ**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Report%E2%80%94Affective-state-and-behavior-of-ENTITY.ipynb)
+  *Local “red-teamed” prompt, Robust context extraction and cleanup, ENTITÀ must answer the last meaningful line (preferably by IO.*
 
 ---
 
