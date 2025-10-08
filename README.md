@@ -1,4 +1,4 @@
-# AI Echo Narrative Research — research project related to [Dialoghi con un’Eco](https://github.com/Mike014/ai-narrative-prototype)
+# AI Echo Narrative Research — research project related to [Dialoghi con un’Eco — Agentic Silence Narrative](https://github.com/Mike014/ai-narrative-prototype)
 
 **Independent Research Project**
 - Michele Grimaldi · 2025
@@ -11,7 +11,7 @@
 
 This repository documents an **independent research prototype** at the intersection of **AI (agentic AI), game design, digital narrative, sound design, poetry, and psychology**.
 
-The work originates from *Dialoghi con un’Eco* and evolves into a **digital psychodrama** where **ENTITA'**—not a scripted NPC but an **agentic AI**—can **choose when to speak or remain silent**. A **Temporal Controller** (multi-scale EMA, hysteresis, cooldown) turns **time and silence** into first-class mechanics, avoiding chatbot-style reactivity.
+The work originates from *Dialoghi con un’Eco — Agentic Silence Narrative* and evolves into a **digital psychodrama** where **ENTITA'**—not a scripted NPC but an **agentic AI**—can **choose when to speak or remain silent**. A **Temporal Controller** (multi-scale EMA, hysteresis, cooldown) turns **time and silence** into first-class mechanics, avoiding chatbot-style reactivity.
 
 Three core components anchor the prototype:
 
@@ -54,15 +54,15 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
 
 ### 1) Narrative Architecture (Story Space & Influences)
 
-* [**Lore of the game Dialoghi con un eco**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/narrative-parallels-bandersnatch-dialoghi.md)
+* [**Lore of the game Dialoghi con un’Eco — Agentic Silence Narrative**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/narrative-parallels-bandersnatch-dialoghi.md)
   *World/lore, tone, rules, and parallels with Bandersnatch.*
-* [**Dialoghi con un’Eco: AI, Digital Trauma, and Interactive Narrative**](https://medium.com/@mikgrimaldi7/dialoghi-con-uneco-ai-digital-trauma-and-interactive-narrative-4e818c451d8e)
+* [**Dialoghi con un’Eco — Agentic Silence Narrative: AI, Digital Trauma, and Interactive Narrative**](https://medium.com/@mikgrimaldi7/dialoghi-con-uneco-ai-digital-trauma-and-interactive-narrative-4e818c451d8e)
   *Introduces the triad (IO–COSCIENZA–ENTITÀ), digital psychodrama, diary format.*
-* [**Dialogues with an Echo — Part 2**](https://medium.com/@mikgrimaldi7/dialogues-with-an-echo-digital-trauma-and-interactive-narrative-3aedb850eea4)
+* [**Dialoghi con un’Eco — Agentic Silence Narrative — Part 2**](https://medium.com/@mikgrimaldi7/dialogues-with-an-echo-digital-trauma-and-interactive-narrative-3aedb850eea4)
   *Dissociation, memory, trauma via interwoven voices.*
-* [**Dialoghi con un’Eco: Suspended Epilogue**](https://medium.com/@mikgrimaldi7/dialoghi-con-uneco-560299e444be)
+* [**Dialoghi con un’Eco — Agentic Silence Narrative: Suspended Epilogue**](https://medium.com/@mikgrimaldi7/dialoghi-con-uneco-560299e444be)
   *“What am I?” hinge and non-consolatory ending logic.*
-* [**Batman: Zur-En-Arrh vs. Dialoghi con un’Eco — Symbolic Death, Ego Failsafe, and Triadic Integration**](https://medium.com/@mikgrimaldi7/batman-zur-en-arrh-vs-dialoghi-con-uneco-symbolic-death-ego-failsafe-and-triadic-integration-6cc5f8fe68c5)
+* [**Batman: Zur-En-Arrh vs. Dialoghi con un’Eco — Agentic Silence Narrative — Symbolic Death, Ego Failsafe, and Triadic Integration**](https://medium.com/@mikgrimaldi7/batman-zur-en-arrh-vs-dialoghi-con-uneco-symbolic-death-ego-failsafe-and-triadic-integration-6cc5f8fe68c5)
   *LEI as trigger; ENTITÀ as intrusive failsafe; COSCIENZA as containment.*
 * [**Entity vs Pax**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/The-Entity-vs-Pax.md)
   *Compares ENTITÀ to Bandersnatch’s Pax (antagonism, agency, meta control).*
@@ -74,18 +74,18 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
   *Alice in Chains’ “Nutshell” stands as one of the most intimate and painful confessions in rock history — a portrait of inner collapse, emotional isolation, and the suffocating grip of addiction.*
 * [**Beyond Appearances: The Hidden Philosophy of “The Whale”**](https://medium.com/@mikgrimaldi7/beyond-appearances-the-hidden-philosophy-of-the-whale-fe0050856bf9)
   *Darren Aronofsky’s “The Whale” is not merely the story of an obese man seeking reconciliation, but a powerful meditation on the fragmentation of human perception and our innate capacity to recognize others     beyond appearances.*
-* [**“Dialoghi con un’Eco” and Placebo’s “Song to Say Goodbye”**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Song_to_Say_Goodbye.ipynb) 
+* [**“Dialoghi con un’Eco — Agentic Silence Narrative” and Placebo’s “Song to Say Goodbye”**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Song_to_Say_Goodbye.ipynb) 
   *This document draws a parallel between the prototype Dialoghi con un’Eco and Placebo’s Song to Say Goodbye, focusing on the cinematic version of the official video directed by Philippe André.*
-* [**“Dialoghi con un’Eco” Conceptual Meaning of LEI**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/The_Meaning_of_LEI.ipynb) 
+* [**“Dialoghi con un’Eco — Agentic Silence Narrative” Conceptual Meaning of LEI**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/The_Meaning_of_LEI.ipynb) 
   *LEI is a symbolic construct — the embodiment of dependency, melancholy, and creative obsession.*
   
 ---
 
 ### 2) Game Design Framework
 
-* [**MDA + CCC Framework — Dialoghi con un’Eco**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/MDA.ipynb)
+* [**MDA + CCC Framework — Dialoghi con un’Eco — Agentic Silence Narrative**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/MDA.ipynb)
   *Reading IO's diary accidentally activates ENTITA' inside the system.*
-* [**Dialoghi con un’Eco — Light GDD (Demo)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Light_GDD.ipynb)
+* [**Dialoghi con un’Eco — Agentic Silence Narrative — Light GDD (Demo)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Light_GDD.ipynb)
   *Interactive psychological thriller where ENTITÀ, an agentic AI, decides when to speak and when to remain silent.*
 
 ---
@@ -136,7 +136,7 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
 
 **⚠️ CONTENT WARNING — MATURE AUDIENCES ONLY (18+)**
 
-*Dialoghi con un'Eco* is a **psychological exploration of self-destruction, isolation, and the slow unraveling of identity**. 
+*Dialoghi con un’Eco — Agentic Silence Narrative* is a **psychological exploration of self-destruction, isolation, and the slow unraveling of identity**. 
 
 This work is directly inspired by the lives and deaths of artists who struggled with—and ultimately succumbed to—internal darkness: **Kurt Cobain, Layne Staley, Heath Ledger, Chester Bennington**. It examines the psychology of **slow suicide**—not as a sudden act, but as a **gradual disappearance** of the self through isolation, addiction to pain, and the seductive voice of self-annihilation.
 
