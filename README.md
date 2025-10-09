@@ -114,7 +114,7 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
 * [**Affective Trajectories**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Report%E2%80%94Affective-state-and-behavior-of-ENTITY.ipynb)
   *Measures mood shifts and their downstream effects; informs controller tuning.*
 * [**Hardening of ENTITÀ**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Report%E2%80%94Affective-state-and-behavior-of-ENTITY.ipynb)
-  *Local “red-teamed” prompt, Robust context extraction and cleanup, ENTITÀ must answer the last meaningful line (preferably by IO.*
+  *Local “red-teamed” prompt, Robust context extraction and cleanup, ENTITÀ must answer the last meaningful line (preferably by IO).*
 
 ---
 
