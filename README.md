@@ -88,7 +88,7 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
 * [**Dialoghi con un’Eco — Agentic Silence Narrative — Light GDD (Demo)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Light_GDD.ipynb)
   *Interactive psychological thriller where ENTITÀ, an agentic AI, decides when to speak and when to remain silent.*
 * [**Dialoghi con un’Eco — Agentic Silence Narrative — Pitch**](https://mike014.github.io/Dialoghi_con_un_eco_Pitch/)
-  *Interactive psychological thriller where ENTITÀ, an agentic AI, decides when to speak and when to remain silent.*
+  *The game presentation pitch.*
 
 ---
 
