@@ -89,6 +89,8 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
   *Interactive psychological thriller where ENTITÀ, an agentic AI, decides when to speak and when to remain silent.*
 * [**Dialoghi con un’Eco — Agentic Silence Narrative — Pitch**](https://mike014.github.io/Dialoghi_con_un_eco_Pitch/)
   *The game presentation pitch.*
+* [**FMV Games and Fourth-Wall-Breaking Games in Videogames**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/FMV_Games_and_Fourth_Wall_Breaking_Games_in_Videogames.ipynb)
+  *Historical and technical analysis of theories, games, FMV, and fourth-wall breaks..*
 
 ---
 
