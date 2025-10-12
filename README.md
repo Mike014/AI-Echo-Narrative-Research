@@ -1,4 +1,4 @@
-# AI Echo Narrative Research — research project related to [Dialoghi con un’Eco — Agentic Silence Narrative](https://github.com/Mike014/ai-narrative-prototype)
+# AI Echo Narrative Research — research project related to [Dialoghi con un’Eco — Agentic Silence Narrative](mailto:mikgrimaldi7@gmail.com)
 
 **Independent Research Project**
 - Michele Grimaldi · 2025
