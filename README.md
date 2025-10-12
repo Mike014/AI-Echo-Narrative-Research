@@ -21,20 +21,22 @@ Three core components anchor the prototype:
 
 The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes run end-to-end, and the **Entity Director** coordinates real-time side effects safely. What’s still in progress is the **game-design articulation** (core loop, player verbs, onboarding) to turn the research system into a fully playable slice.
 
-### Recent engine updates
+### Recent engine updates 
+
+* **Web interaction tool (WebVoyager + Selenium) — [demo video](https://youtu.be/7nC_eudJCT4)**
+  The Entity can now act directly in the browser: open pages, type, click UI elements, and trigger audio playback on real sites. This enables more vivid, in-the-wild narrative moments without exposing internal implementation details.
 
 * **Neural TTS voice for [ENTITA'](https://www.youtube.com/watch?v=LAynzTdDBIE)**
   A new voice pipeline (Neural TTS + light post-FX) delivers a **hybrid timbre**—influenced by Heath Ledger’s Joker (attack/taunt) and grunge textures (Layne Staley, Kurt Cobain). Result: **more fluid laugh transitions** and a darker, controlled **single-sentence** delivery.
 
 * **Environment detection (“establish environment”)**
   Runtime detection of **OS and screen resolution/DPI** to:
-
-  * scale UI safely across displays,
-  * enable **OS-aware affordances** in a **sandboxed** manner (simulate notes/overlays in-game when **Safe Mode** is on),
-  * log session metadata (`os`, `resolution`, `dpi`) for tuning.
+  - scale UI safely across displays,
+  - enable **OS-aware affordances** in a **sandboxed** manner (simulate notes/overlays in-game when **Safe Mode** is on),
+  - log session metadata (`os`, `resolution`, `dpi`) for tuning.
 
 > Status: suitable for a **mini-demo** (engine-first). Next steps: packaging, safe defaults, and a clearer core loop.
-> 
+
 ---
 
 ## **YouTube Showcase Playlist** → [Watch the Video](https://www.youtube.com/watch?v=0Y-_Rt0oZkU&list=PLgKASgLUSpNYKyusWO6iHcxTe-odeIho1)
