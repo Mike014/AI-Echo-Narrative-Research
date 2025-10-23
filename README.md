@@ -93,6 +93,8 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
   *The game presentation pitch.*
 * [**FMV Games and Fourth-Wall-Breaking Games in Videogames**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/FMV_Games_and_Fourth_Wall_Breaking_Games_in_Videogames.ipynb)
   *Historical and technical analysis of theories, games, FMV, and fourth-wall breaks..*
+* [**GAME DESIGN PHILOSOPHY**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Game_Design_Philosophy.md)
+  *A game must pose a fundamental question about the human experience, and become the answer to that question through every single one of its elements...*
 
 ---
 
