@@ -115,8 +115,6 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
 * [**Unity ML‑Agents Toolkit**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ml_agents_unity/documentation.ipynb)
   *Unity ML‑Agents Toolkit is a bridge between Unity and a Python trainer that trains neural networks based on observations, actions, and rewards. *
 
-  https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ml_agents_unity/documentation.ipynb
-
 ---
 
 ### 4) Metrics & Evaluation
