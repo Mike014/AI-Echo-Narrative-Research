@@ -113,7 +113,7 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
 * [**Simple System Architecture: Game & OS Agent**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Simple_System_Architecture_Game_and_OS_Agent.ipynb)
   *Build a fast, responsive game that works on desktop and can be easily moved to the web, keeping things separate and safe.*
 * [**Unity ML‑Agents Toolkit**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/ml_agents_unity/documentation.ipynb)
-  *Unity ML‑Agents Toolkit is a bridge between Unity and a Python trainer that trains neural networks based on observations, actions, and rewards. *
+  *Unity ML‑Agents Toolkit is a bridge between Unity and a Python trainer that trains neural networks based on observations, actions, and rewards.*
 
 ---
 
