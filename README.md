@@ -93,9 +93,11 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
   *The game presentation pitch.*
 * [**FMV Games and Fourth-Wall-Breaking Games in Videogames**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/FMV_Games_and_Fourth_Wall_Breaking_Games_in_Videogames.ipynb)
   *Historical and technical analysis of theories, games, FMV, and fourth-wall breaks..*
-* [**GAME DESIGN PHILOSOPHY**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Game_Design_Philosophy.md)
+* [**Game Design Philosophy**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Game_Design_Philosophy.md)
   *A game must pose a fundamental question about the human experience, and become the answer to that question through every single one of its elements...*
-
+* [**GAME Design Technical_Skills**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Game_Design/game_designer_technical_skills.ipynb)
+  *A game must pose a fundamental question about the human experience, and become the answer to that question through every single one of its elements...*
+  
 ---
 
 ### 3) Engine & AI Architecture
@@ -152,7 +154,18 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
 
 ---
 
-### 8) Safety, Ethics & Content Guidelines
+### 8) E-C-H-O Systems
+
+* [**E-C-H-O Systems**](https://mike014.github.io/ecosystem-echo/)
+  *✹E‑C‑H‑O SYSTEMS✹ is an independent research and development lab founded by Michele Grimaldi, expanding the universe of Dialoghi con un'Eco through experimental video games and AI-driven interactive experiences.*
+* [**Terminal**](https://dialoghi-con-uneco-terminal.onrender.com/)
+  *experimental interactive web terminal that expands the narrative universe of *Dialoghi con un’Eco*, This standalone prototype acts as a diegetic interface—the Echo Terminal—where users uncover clues and face a core enigma, solvable either through a game of Reverse Tic-Tac-Toe or by direct system exploration using real terminal commands like `ls`, `cd`, and `cat`.*
+* [*???**](https://en.wikipedia.org/wiki/Calls_(TV_series))
+  *???*
+
+---
+
+### 9) Safety, Ethics & Content Guidelines
 
 **⚠️ CONTENT WARNING — MATURE AUDIENCES ONLY (18+)**
 
