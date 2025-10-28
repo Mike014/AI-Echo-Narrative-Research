@@ -160,7 +160,7 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
   *✹E‑C‑H‑O SYSTEMS✹ is an independent research and development lab founded by Michele Grimaldi, expanding the universe of Dialoghi con un'Eco through experimental video games and AI-driven interactive experiences.*
 * [**Terminal**](https://dialoghi-con-uneco-terminal.onrender.com/)
   *experimental interactive web terminal that expands the narrative universe of *Dialoghi con un’Eco*, This standalone prototype acts as a diegetic interface—the Echo Terminal—where users uncover clues and face a core enigma, solvable either through a game of Reverse Tic-Tac-Toe or by direct system exploration using real terminal commands like `ls`, `cd`, and `cat`.*
-* [*???**](https://en.wikipedia.org/wiki/Calls_(TV_series))
+* [*???*](https://en.wikipedia.org/wiki/Calls_(TV_series))
   *???*
 
 ---
