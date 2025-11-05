@@ -173,6 +173,11 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
 
 This work is directly inspired by the lives and deaths of artists who struggled with—and ultimately succumbed to—internal darkness: **Kurt Cobain, Layne Staley, Heath Ledger, Chester Bennington**. It examines the psychology of **slow suicide**—not as a sudden act, but as a **gradual disappearance** of the self through isolation, addiction to pain, and the seductive voice of self-annihilation.
 
+### 10) Crowdfunding
+
+* [**Kickstarter**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/crowdfunding/KickStarter.ipynb)
+  *Strategies for an Effective Kickstarter Promotion.*
+
 ---
 
 **This narrative explores:**
