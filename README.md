@@ -47,7 +47,7 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
 
 ### 0) Vision & Premise
 
-* [**Draft of the Premise (notebook)**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Creative_Writing/Draft_of_the_Premise.ipynb)
+* [**Premise**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Creative_Writing/Draft_of_the_Premise.ipynb)
   *One-line premise and highlighted version; establishes IO–COSCIENZA–ENTITÀ → LUI and the “integrated–hard” outcome.*
 * [**7 Steps of Structure – “IO / ENTITÀ / COSCIENZA”**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/Creative_Writing/Seven_Key_Steps.ipynb)
   *The “DNA” of the Story.*
