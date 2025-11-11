@@ -165,18 +165,20 @@ The **engine is functional**: ENTITA' reacts autonomously, metronarrative scenes
 
 ---
 
-### 9) Safety, Ethics & Content Guidelines
+### 9) Crowdfunding
+
+* [**Kickstarter**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/crowdfunding/KickStarter.ipynb)
+  *Strategies for an Effective Kickstarter Promotion.*
+
+---
+
+### 10) Safety, Ethics & Content Guidelines
 
 **⚠️ CONTENT WARNING — MATURE AUDIENCES ONLY (18+)**
 
 *Dialoghi con un’Eco — Agentic Silence Narrative* is a **psychological exploration of self-destruction, isolation, and the slow unraveling of identity**. 
 
 This work is directly inspired by the lives and deaths of artists who struggled with—and ultimately succumbed to—internal darkness: **Kurt Cobain, Layne Staley, Heath Ledger, Chester Bennington**. It examines the psychology of **slow suicide**—not as a sudden act, but as a **gradual disappearance** of the self through isolation, addiction to pain, and the seductive voice of self-annihilation.
-
-### 10) Crowdfunding
-
-* [**Kickstarter**](https://github.com/Mike014/AI-Echo-Narrative-Research/blob/main/crowdfunding/KickStarter.ipynb)
-  *Strategies for an Effective Kickstarter Promotion.*
 
 ---
 
